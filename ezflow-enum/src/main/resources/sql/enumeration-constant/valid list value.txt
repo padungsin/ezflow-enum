@@ -1,0 +1,6 @@
+(new com.aviva.documentroute.constant.jpa.manager.EnumerationConstantManager()).getEnumerationList("CheckList", "name")
+(new com.aviva.documentroute.constant.jpa.manager.EnumerationConstantManager()).getEnumerationList("DocTrxGroup", "name")
+(new com.aviva.documentroute.constant.jpa.manager.EnumerationConstantManager()).getEnumerationList("Action", "actionType")
+(new com.aviva.documentroute.constant.jpa.manager.EnumerationConstantManager()).getEnumerationList("Property", "name")
+(new com.aviva.documentroute.constant.jpa.manager.EnumerationConstantManager()).getEnumerationList("DocumentRoute", "docTypeCd")
+(new com.aviva.documentroute.constant.jpa.manager.EnumerationConstantManager()).getEnumerationList("DocumentRoute", "transactionTypeCd")

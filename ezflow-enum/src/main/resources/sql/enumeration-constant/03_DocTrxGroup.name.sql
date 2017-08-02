@@ -1,0 +1,12 @@
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'MAIN-DOC-NB');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'MAIN-DOC-PS');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'MAIN-DOC-CLAIM');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'MAIN-DOC-CC');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-SHARE-NB-PS');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-NB-PSMAINTRX');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-SHARE-NB-PS-CLAIM');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-SHARE-NB-CLAIM-PSMAINFORM');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-SHARE-PS-CLAIM');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-NB');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-PS');
+insert into enumeration_constant (fact, field, value) values ('DocTrxGroup','name', 'SUPDOC-CLAIM');

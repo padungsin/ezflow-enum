@@ -1,0 +1,12 @@
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'policyStatus');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'contractCreated');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'dispatchDate');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'policyAckReceived');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'policyHolderReceived');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'compliantReceived');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'incidentReceived');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'cCNeedSupport');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'nBProcessExist');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'pSProcessExist');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'claimProcessExist');
+insert into enumeration_constant (fact, field, value) values ('CheckList','name', 'policyOnHold');
